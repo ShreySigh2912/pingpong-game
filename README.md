@@ -12,7 +12,7 @@ A classic ping pong game implementation using HTML5 Canvas, CSS, and JavaScript.
 
 ## How to Play
 
-1. Open `index.html` in a web browser
+1. Open the game in your web browser
 2. Click the 'Start Game' button
 3. Move your mouse up and down to control the left paddle
 4. Try to beat the AI!
@@ -29,10 +29,4 @@ A classic ping pong game implementation using HTML5 Canvas, CSS, and JavaScript.
 - Responsive design with CSS
 - AI opponent with basic tracking algorithm
 
-## Installation
-
-1. Clone the repository
-2. Open `index.html` in a web browser
-3. Start playing!
-
-Enjoy the game! 🎓
+Enjoy the game! 🎮
